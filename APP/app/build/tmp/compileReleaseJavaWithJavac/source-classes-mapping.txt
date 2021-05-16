@@ -1,0 +1,28 @@
+cat/bb_8/moviment2.java
+ cat.bb_8.moviment2
+ cat.bb_8.moviment2$1
+cat/bb_8/variables.java
+ cat.bb_8.variables
+cat/bb_8/sensors.java
+ cat.bb_8.sensors
+ cat.bb_8.sensors$1
+cat/bb_8/settings.java
+ cat.bb_8.settings
+cat/bb_8/BuildConfig.java
+ cat.bb_8.BuildConfig
+cat/bb_8/MainActivity.java
+ cat.bb_8.MainActivity
+cat/bb_8/Pyaicrypt.java
+ cat.bb_8.Pyaicrypt
+cat/bb_8/camara.java
+ cat.bb_8.camara
+cat/bb_8/MqttHelper.java
+ cat.bb_8.MqttHelper
+ cat.bb_8.MqttHelper$1
+ cat.bb_8.MqttHelper$2
+ cat.bb_8.MqttHelper$3
+cat/bb_8/moviment.java
+ cat.bb_8.moviment
+ cat.bb_8.moviment$1
+ cat.bb_8.moviment$2
+ cat.bb_8.moviment$3
